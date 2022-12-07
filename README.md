@@ -7,10 +7,9 @@ My hypothesis:
 2, Having an increase during the Covid period 
 3, Having peak one during summer for playing needs
 4, Having peak one during winter because of promotion 
+
+
 Data 
-  Orders - historical orders since July 2019 to Jan 2022
-  Items - list of items they sell
-  Total 35 features
 ![image](https://user-images.githubusercontent.com/105768533/206321159-fea434bc-2be8-45d9-b9d6-d970840acd29.png)
   ![image](https://user-images.githubusercontent.com/105768533/206321228-fe790b58-0e06-41a2-a8ae-bca1e7554934.png)
   The quantity sales from July 2019 to Jan 2022
